@@ -6,5 +6,6 @@ public class DemoController {
 	public void demo() {
 		System.out.println("²âÊÔ");
 		System.out.println("ÏÉÂ·¾¡Í·Ë­Îª·å");
+		System.out.println("2222222");
 	}
 }
